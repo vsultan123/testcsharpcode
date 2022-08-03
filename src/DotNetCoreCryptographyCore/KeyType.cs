@@ -7,7 +7,6 @@
     public enum KeyType : byte
     {
         Unknown = 0,
-        Aes256 = 1,
-        xyz=2
+        Aes256 = 1
     }
 }

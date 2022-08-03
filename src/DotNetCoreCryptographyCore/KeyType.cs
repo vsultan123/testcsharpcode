@@ -8,5 +8,6 @@
     {
         Unknown = 0,
         Aes256 = 1,
+        rtyui=7890
     }
 }
